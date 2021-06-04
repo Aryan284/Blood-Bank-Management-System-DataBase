@@ -1,0 +1,2 @@
+*.SQL linguist-detectable=true
+*.PL/SQL linguist-detectable=true
