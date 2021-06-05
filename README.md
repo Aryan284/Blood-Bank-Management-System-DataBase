@@ -2,6 +2,7 @@
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[Author](https://img.shields.io/static/v1.svg?label=Author&message=@Aryan&logo=github&style=social)](https://github.com/Aryan284)
 
 **MIT &copy; [Aryan](https://github.com/Aryan284/Blood-Bank-Management-System/master/LICENSE)**
 
