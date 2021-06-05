@@ -1,10 +1,9 @@
 ## Blood-Bank-Management-System-DataBase
 
 ## License
-[![GitHub license](https://img.shields.io/github/license/Aryan284/Blood-Bank-Management-System.svg?style=social&logo=github)]
-(https://github.com/Aryan284/Blood-Bank-Management-System/blob/master/LICENSE) [!
-[Author](https://img.shields.io/static/v1.svg?label=Author&message=@Aryan284&logo=github&style=social)](https://github.com/Aryan284)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**MIT &copy; [Aryan](https://github.com/Aryan284/Blood-Bank-Management-System/blob/master/LICENSE)**
 
 ![Blood Bank Management System](https://img.shields.io/badge/Blood--bank--management-system-orange.svg?style=flat-square)
 ![DBMS Project](https://img.shields.io/badge/DBMS-project-yellowgreen.svg?style=flat-square)
