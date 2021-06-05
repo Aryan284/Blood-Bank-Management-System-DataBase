@@ -1,7 +1,8 @@
 ## Blood-Bank-Management-System-DataBase
 
 ## License
-[![GitHub license](https://img.shields.io/github/license/Aryan284/Blood-Bank-Management-System.svg?style=social&logo=github)](https://github.com/Aryan284/Blood-Bank-Management-System/blob/master/LICENSE) [!
+[![GitHub license](https://img.shields.io/github/license/Aryan284/Blood-Bank-Management-System.svg?style=social&logo=github)]
+(https://github.com/Aryan284/Blood-Bank-Management-System/blob/master/LICENSE) [!
 [Author](https://img.shields.io/static/v1.svg?label=Author&message=@Aryan284&logo=github&style=social)](https://github.com/Aryan284)
 
 
