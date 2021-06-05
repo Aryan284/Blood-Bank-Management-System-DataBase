@@ -4,8 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@Aryan&logo=github&style=social)](https://github.com/Aryan284)
 
-**MIT &copy; [Aryan](https://github.com/Aryan284/Blood-Bank-Management-System/)**
-
 ![Blood Bank Management System](https://img.shields.io/badge/Blood--bank--management-system-orange.svg?style=flat-square)
 ![DBMS Project](https://img.shields.io/badge/DBMS-project-yellowgreen.svg?style=flat-square)
 
@@ -15,5 +13,5 @@ efficient way. It will make the blood transfusion service and its management mor
 efficient than the conventional system.
 
 ## Technology Used
-![SQL](https://img.shields.io/badge/database-sql-lightgray.svg?logo=sql&logoColor=white&style=flat-square)
-![PLSQL](https://img.shields.io/badge/database-plsql-lightgray.svg?logo=plsql&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/database-sql-lightgray.svg?logo=sql&logoColor=blue&style=flat-square)
+![PLSQL](https://img.shields.io/badge/database-plsql-lightgray.svg?logo=plsql&logoColor=blue&style=flat-square)
